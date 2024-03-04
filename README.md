@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoBastos04&theme=dracula)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBastos04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBastos04&layout=dracula)](https://github.com/anuraghazra/github-readme-stats)
