@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoBastos04&theme=dracula&hide_rank=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoBastos04&theme=dracula)
+## 
+![snake gif](https://github.com/GustavoBastos04/GustavoBastos04/blob/output/github-contribution-grid-snake.gif)
