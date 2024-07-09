@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoBastos04&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBastos04&size_weight=0.5&count_weight=0.5)
