@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoBastos04&theme=dracula)
-## 
-![snake gif](https://github.com/GustavoBastos04/GustavoBastos04/blob/output/github-contribution-grid-snake.gif)
