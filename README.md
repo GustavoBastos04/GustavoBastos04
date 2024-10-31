@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-## 🌱 I’m currently learning
-- Studying Java and OOP
-- Javascript and NodeJS
-- IT subjects at University
-
 ## 📫 How to reach me: gubasouza2004@gmail.com
 
 ## 😄 Pronouns: he/him
