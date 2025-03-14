@@ -3,7 +3,7 @@
 ## 📫 How to reach me: gubasouza2004@gmail.com
 
 ## 🔭 I’m currently working on ...
-At NICE, I'm currently working as a Portfolio Solution Engineer, focused on the Presales process. So I'm customizing scripts in an internal platform, creating demonstrations for clients, generating technical and comercial proposals and creating quotes.
+At NICE, I'm currently working as a Portfolio Solution Engineer Intern, focused on the Presales process. So I'm customizing scripts in an internal platform, answering RFPs, creating demonstrations for clients, generating technical proposals and creating quotes.
 
 ## 🌱 I’m currently learning ...
 - Python for Data Analysis (numpy, pandas);
