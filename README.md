@@ -8,7 +8,6 @@ At NICE, I'm currently working as a Portfolio Solution Engineer Intern, focused 
 ## 🌱 I’m currently learning ...
 - Python for Data Analysis (numpy, pandas);
 - Power BI
-- Developing my NodeJS/Javascript/ReactJS skills
 
 ## 😄 Pronouns: he/him
 
