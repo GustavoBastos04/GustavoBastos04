@@ -3,14 +3,12 @@
 ## 📫 How to reach me: gubasouza2004@gmail.com
 
 ## 🔭 I’m currently working on ...
-At NICE, I'm currently working as a Portfolio Solution Engineer Intern, focused on the Presales process. So I'm customizing scripts in an internal platform, answering RFPs, creating demonstrations for clients, generating technical proposals and creating quotes.
-
-## 🤔 I’m looking to collaborate on ...
-Data projects. I'm a data enthusiast looking to learn data analysis and data scientist skills.
+At NICE, I'm currently working as a Portfolio Solution Engineer Intern, focused on the Presales process. So I'm customizing scripts in an internal platform, integrating functionalities with third-party systems APIs, answering RFPs, creating demonstrations for clients, generating technical proposals and creating quotes.
 
 ## 🌱 I’m currently learning ...
-- Python for Data Analysis (numpy, pandas);
-- Power BI
+- Neural Networks;
+- Distributed Systems;
+- Database consulting optimization.
 
 ## 😄 Pronouns: he/him
 
