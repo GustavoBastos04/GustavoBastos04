@@ -3,8 +3,7 @@
 ## 📫 How to reach me: gubasouza2004@gmail.com
 
 ## 🔭 I’m currently working on ...
-At NICE, I'm currently working as a Portfolio Solution Engineer Intern, focused on the Presales process. So I'm customizing scripts in an internal platform, integrating functionalities with third-party systems APIs, answering RFPs, creating demonstrations for clients, generating technical proposals and creating quotes.
-
+At NICE, I'm currently working as a Portfolio Solution Engineer Intern, focused on the Presales process. I'm responsible for supporting the sales team of a cloud-based platform that generates customer experience by unifying channels, routing, automation, and analytics. This support involves programming customer journey scripts across channels, integrating with databases, CRMs, third-party systems, channels like WhatsApp, and through REST APIs. I also configure the platform environment and AI-enabled self-service chatbots. Furthermore, I answer technical requirements in commercial proposals such as RFPs.
 <!--
 **GustavoBastos04/GustavoBastos04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
