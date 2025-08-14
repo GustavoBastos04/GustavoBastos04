@@ -5,13 +5,6 @@
 ## 🔭 I’m currently working on ...
 At NICE, I'm currently working as a Portfolio Solution Engineer Intern, focused on the Presales process. So I'm customizing scripts in an internal platform, integrating functionalities with third-party systems APIs, answering RFPs, creating demonstrations for clients, generating technical proposals and creating quotes.
 
-## 🌱 I’m currently learning ...
-- Neural Networks;
-- Distributed Systems;
-- Database consulting optimization.
-
-## 😄 Pronouns: he/him
-
 <!--
 **GustavoBastos04/GustavoBastos04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
