@@ -3,7 +3,8 @@
 ## 📫 How to reach me: gubasouza2004@gmail.com
 
 ## 🔭 I’m currently working on ...
-At NICE, I'm currently working as a Portfolio Solution Engineer Intern, focused on the Presales process. I'm responsible for supporting the sales team of a cloud-based platform that generates customer experience by unifying channels, routing, automation, and analytics. This support involves programming customer journey scripts across channels, integrating with databases, CRMs, third-party systems, channels like WhatsApp, and through REST APIs. I also configure the platform environment and AI-enabled self-service chatbots. Furthermore, I answer technical requirements in commercial proposals such as RFPs.
+
+At Vivo, I'm currently working as a Networks Intern, in an architecture team for B2B clients. I'm responsible to check switches status on the architecture and ensure that all the data related to the links and ports are synchronized on the network and in our databases. I'm also participating in projects that involves automating the area, building Python scripts that check devices conditions and gather data from them.
 <!--
 **GustavoBastos04/GustavoBastos04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,4 +23,6 @@ Here are some ideas to get you started:
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBastos04&size_weight=0.5&count_weight=0.5)
 -->
+<!--
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/GustavoBastos04/GustavoBastos04/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+-->
