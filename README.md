@@ -4,7 +4,7 @@
 
 ## 🔭 I’m currently working on ...
 
-At Vivo, I'm currently working as a Networks Intern, in an architecture team for B2B clients. I'm responsible to check switches status on the architecture and ensure that all the data related to the links and ports are synchronized on the network and in our databases. I'm also participating in projects that involves automating the area, building Python scripts that check devices conditions and gather data from them.
+At Vivo, I'm currently working as a Software Development Intern, developing internal tools for network teams who work with B2B clients. I'm responsible to develop and maintan a web application that automatize part of technical study of network services projects for B2B clients. The main tools that I'm working with are Django, React, Python, NodeJS, JavaScript, MySQL and Docker. 
 <!--
 **GustavoBastos04/GustavoBastos04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
