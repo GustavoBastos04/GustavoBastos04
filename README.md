@@ -4,7 +4,19 @@
 
 ## 🔭 I’m currently working on ...
 
-At Vivo, I'm currently working as a Software Development Intern, developing internal tools for network teams who work with B2B clients. I'm responsible to develop and maintan a web application that automatize part of technical study of network services projects for B2B clients. The main tools that I'm working with are Django, React, Python, NodeJS, JavaScript, MySQL and Docker. 
+At Vivo, I'm currently working as an Intern developing internal tools and network automation for network teams who work with B2B clients. I'm responsible to develop and maintan a web application that automatize part of technical study of network services projects for B2B clients. The main tools that I'm working with are Django, React, Python, NodeJS, JavaScript, MySQL and Docker. 
+
+## 🌱 I’m currently learning ...
+
+- Telecom industry themes;
+- Networks;
+- Cybersecurity themes;
+- Software development best pracites; 
+
+## 🤔 I’m looking for
+
+Learning more about engineering processes in telecom industries and work in areas related to networking, infrastructure, cybersecurity or software development.
+
 <!--
 **GustavoBastos04/GustavoBastos04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
