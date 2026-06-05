@@ -11,7 +11,7 @@ At Vivo, I'm currently working as an Intern developing internal tools and networ
 - Telecom industry themes;
 - Networks;
 - Cybersecurity themes;
-- Software development best pracites; 
+- Software development best practices; 
 
 ## 🤔 I’m looking for
 
