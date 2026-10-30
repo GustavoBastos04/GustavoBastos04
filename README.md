@@ -4,12 +4,11 @@
 
 ## 🔭 I’m currently working on ...
 
-At Vivo, I'm currently working as an Intern developing internal tools and network automation for network teams who work with B2B clients. I'm responsible to develop and maintan a web application that automatize part of technical study of network services projects for B2B clients. The main tools that I'm working with are Django, React, Python, NodeJS, JavaScript, MySQL and Docker. 
+At Vivo, I'm currently working as an Analyst developing internal software tools and network automation for network teams who work with B2B clients. 
 
 ## 🌱 I’m currently learning ...
 
 - Telecom industry themes;
-- Networks;
 - Cybersecurity themes;
 - Software development best practices; 
 
